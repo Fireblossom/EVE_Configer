@@ -1,1 +1,1 @@
-A Synchronizer of EVE online of serenity server.
+A Synchronizer for EVE online of serenity server.
